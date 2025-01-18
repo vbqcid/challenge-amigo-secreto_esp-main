@@ -15,9 +15,3 @@ Esta es una aplicación interactiva que permite a los usuarios organizar un sort
 - **CSS3**: Para estilos y diseño responsivo.
 - **JavaScript**: Para la lógica de la aplicación.
 
-## Instalación y uso
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
-   cd amigo-secreto
